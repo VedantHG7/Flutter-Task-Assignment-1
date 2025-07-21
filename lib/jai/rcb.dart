@@ -126,7 +126,7 @@ class _SplashScreenState extends State<SplashScreen>
                   ),
                   const SizedBox(height: 8),
                   Text(
-                    'Discover Amazing Events',
+                    'Discover Amazing Eents',
                     style: TextStyle(
                       color: Appeme.tetSendary,
                       fontSize: 16,
