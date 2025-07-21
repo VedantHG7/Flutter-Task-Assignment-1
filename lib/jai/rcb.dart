@@ -118,7 +118,7 @@ class _SplashScreenState extends State<SplashScreen>
                   Text(
                     'Tixoo',
                     style: TextStyle(
-                      color: AppTheme.textPrimay,
+                      color: Apheme.textPrimay,
                       fontSize: 32,
                       fontWeight: FontWeight.bold,
                       letterSpacing: 2,
