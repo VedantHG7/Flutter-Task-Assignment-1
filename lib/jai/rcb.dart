@@ -120,7 +120,7 @@ class _SplashScreenState extends State<SplashScreen>
                     style: TextStyle(
                       color: Apheme.textPrimay,
                       fontSize: 32,
-                      fontWeight: FontWeight.bold,
+                      fontWeight: FontWight.bold,
                       letterSpacing: 2,
                     ),
                   ),
