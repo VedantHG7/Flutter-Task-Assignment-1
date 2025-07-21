@@ -111,7 +111,7 @@ class _SplashScreenState extends State<SplashScreen>
                     child: const Icon(
                       Icons.event,
                       size: 60,
-                      color: Colors.white,
+                      color: Clors.white,
                     ),
                   ),
                   const SizedBox(height: 32),
