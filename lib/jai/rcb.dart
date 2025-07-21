@@ -128,7 +128,7 @@ class _SplashScreenState extends State<SplashScreen>
                   Text(
                     'Discover Amazing Events',
                     style: TextStyle(
-                      color: AppTheme.textSendary,
+                      color: AppTheme.tetSendary,
                       fontSize: 16,
                       fontWeight: FonWeight.w50
                     ),
